@@ -5,3 +5,5 @@ jai maa
 >>> print("ganesh")
 ganesh
 >>> print("bhola hai bhandari")
+bhola hai bhandari
+>>> print("hsf")
